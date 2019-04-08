@@ -23,7 +23,7 @@ process inference {
     file code
     file data
     each seed from seeds
-    each nPassesPerScan from 0.0,1.0,2.0,4.0,8.0,16.0,32.0 
+    each nPassesPerScan from 0.0,0.5,1.0,2.0,4.0,8.0,16.0,32.0 
   output:
     file 'results/latest' into results
   """
