@@ -3,26 +3,30 @@
 deliverableDir = 'deliverables/' + workflow.scriptName.replace('.nf','')
 
 params.model = "ising"
+params.nThreads
+nThreads = params.nThreads
+nNonReversibleChains = nThreads - 1 
 
 process buildCode {
   input:
     val gitRepoName from 'blangDemos'
     val gitUser from 'UBC-Stat-ML'
-    val codeRevision from 'c276c4cf5b236bd6efaa4d663bfd46655a75b691'
+    val codeRevision from '9dce9b5a06ae2ce6637ff5676afa3da1f6c4b0c8'
     val snapshotPath from "${System.getProperty('user.home')}/w/blangDemos"
   output:
     file 'code' into code
     file 'data' into data
   script:
-    template 'buildSnapshot.sh' 
+    template 'buildRepo.sh' 
 }
 
 process inference {
+  container 'cgrlab/tidyverse'
   input:
     file code
     file data
-    each method from '--experimentConfigs.description Non-reversible PT            --engine PT --engine.nChains 20 --engine.initialization FORWARD',
-                     '--experimentConfigs.description Non-reversible PT + SCM init --engine PT --engine.nChains 20 --engine.initialization SCM',
+    each method from '--experimentConfigs.description Non-reversible PT            --engine PT --engine.nChains ' + nNonReversibleChains + ' --engine.initialization FORWARD',
+                     '--experimentConfigs.description Non-reversible PT + SCM init --engine PT --engine.nChains ' + nNonReversibleChains + ' --engine.initialization SCM',
                      '--experimentConfigs.description Single-chain MCMC            --engine PT --engine.nChains 1',
                      '--experimentConfigs.description Atchade-Roberts-Rosenthal    --engine baselines.StochasticOptimizedPT --engine.scheme ARR --engine.reversible true', 
                      '--experimentConfigs.description Miasojedow-Moulines-Vihola   --engine baselines.StochasticOptimizedPT --engine.scheme MMV --engine.reversible true'
@@ -32,7 +36,8 @@ process inference {
   code/bin/blangDemos ${params.model} \
     ${method} \
     --engine.nScans 10_000 \
-    --engine.nThreads MAX \
+    --engine.nThreads fixed \
+    --engine.nThreads.number ${params.nThreads} \
     --postProcessor DefaultPostProcessor 
   """
 }
@@ -63,10 +68,12 @@ process aggregate {
       --dataPathInEachExecFolder \${file}.csv \
       --keys \
         \
+        postAdaptTime_ms \
         samplingTime_ms \
              from monitoring/runningTimeSummary.tsv, \
         \
         model \
+        engine \
         experimentConfigs.description as method  \
              from arguments.tsv
     mv results/latest/aggregated aggregates/`echo \${file} | sed 's-.*/--'`
@@ -75,6 +82,7 @@ process aggregate {
 }
 
 process plot {
+  container 'cgrlab/tidyverse'
   input:
     file aggregates
     env SPARK_HOME from "${System.getProperty('user.home')}/bin/spark-2.1.0-bin-hadoop2.7"
@@ -105,7 +113,11 @@ process plot {
     mutate(model = str_replace(model, ".*[.]", "")) %>%
     mutate(model = str_replace(model, "[\$]Builder", "")) %>%
     filter(variable != "allLogDensities") %>%
-    filter(variable != "energy")
+    filter(variable != "energy") %>%
+    mutate(
+      isStochasticOpt = ifelse(str_detect(engine, "baselines.StochasticOptimizedPT"), 1, 0),  #(if (strcmp(engine,"baselines.StochasticOptimizedPT")) 1 else 0),
+      postAdaptTime_ms = postAdaptTime_ms/(isStochasticOpt+1)
+    )
           
   p <- ggplot(ess, aes(x = method, y = value, colour = method)) +
     geom_boxplot() +
@@ -132,9 +144,22 @@ process plot {
     theme_bw()  
   ggsave("ess-per-total-time-${params.model}.pdf", p, width = 10, height = 5, limitsize = FALSE)
   
+  p <- ggplot(ess, aes(x = method, y = value/postAdaptTime_ms*1000, colour = method)) +
+    geom_boxplot() +
+    facet_grid(model ~ ., scales = "free") + 
+    guides(colour=FALSE) +
+    xlab("Inference Method") + 
+    ylab("ESS/s based on wall clock time excluding adaptation time") +
+    scale_y_log10() + 
+    ggtitle("Effective Sample Size per sampling time (ESS/s) across all model marginal distributions", 
+      subtitle = "Total wall clock time computed as the wall clock time for sampling (excluding adaptation)"
+    ) + 
+    theme_bw()  
+  ggsave("ess-per-sample-time-${params.model}.pdf", p, width = 10, height = 5, limitsize = FALSE)
+  
   max_round <- max(restarts\$round)
   restarts <- restarts %>%
-    filter(round == max_round | !grepl(".*PT.*",method))
+    filter(round == max_round | engine != "PT")
   
   p <- ggplot(restarts, aes(x = method, y = rate, colour = method)) +
     geom_boxplot() +
