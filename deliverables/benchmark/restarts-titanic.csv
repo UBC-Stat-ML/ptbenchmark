@@ -1,0 +1,5 @@
+"","round","count","rate","samplingTime_ms","model","method"
+"1",11,244,0.0488,1149076,"glms.SpikeSlabClassification$Builder","Non-reversible PT"
+"2",11,225,0.045,1161013,"glms.SpikeSlabClassification$Builder","Non-reversible PT + SCM init"
+"3",0,135,0.0135,2709530,"glms.SpikeSlabClassification$Builder","Atchade-Roberts-Rosenthal"
+"4",0,166,0.0166,2845269,"glms.SpikeSlabClassification$Builder","Miasojedow-Moulines-Vihola"

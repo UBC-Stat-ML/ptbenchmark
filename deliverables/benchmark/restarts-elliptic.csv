@@ -1,0 +1,5 @@
+"","round","count","rate","samplingTime_ms","model","method"
+"1",11,159,0.0318,9437,"demos.UnidentifiableEllipticCurve$Builder","Non-reversible PT"
+"2",11,177,0.0354,10277,"demos.UnidentifiableEllipticCurve$Builder","Non-reversible PT + SCM init"
+"3",0,212,0.0212,17887,"demos.UnidentifiableEllipticCurve$Builder","Miasojedow-Moulines-Vihola"
+"4",0,4,4e-04,16486,"demos.UnidentifiableEllipticCurve$Builder","Atchade-Roberts-Rosenthal"

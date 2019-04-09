@@ -1,8 +1,13 @@
 #!/usr/bin/env nextflow
 
+/**
+  Faster version of ELE tests, where only 1 seed is used, upper-bound decreased by a bit.
+*/
+
 deliverableDir = 'deliverables/' + workflow.scriptName.replace('.nf','')
 
 params.model = "ising"
+params.outputFile = "actualTemperedRestarts"
 
 process buildCode {
   input:
@@ -17,19 +22,16 @@ process buildCode {
     template 'buildRepo.sh' 
 }
 
-seeds = (1..10).collect{it}
 process inference {
   input:
     file code
     file data
-    each seed from seeds
-    each nPassesPerScan from 0.0,0.5,1.0,2.0,4.0,8.0,16.0,32.0 
+    each nPassesPerScan from 0.0,0.25,0.5,1.0,2.0,4.0,8.0,16.0 
   output:
     file 'results/latest' into results
   """
   code/bin/blangDemos ${params.model} \
     --engine PT \
-    --engine.random $seed \
     --engine.nChains 20 \
     --engine.nScans 10_000 \
     --engine.nThreads MAX \
@@ -50,23 +52,17 @@ process analysisCode {
     template 'buildRepo.sh'
 }
 
-results.into {
-  results1
-  results2
-}
-
 process aggregate {
   input:
     file analysisCode
-    file 'exec_*' from results1.toList()
+    file 'exec_*' from results.toList()
   output:
     file 'results/latest/aggregated' into aggregated
   """
   code/bin/aggregate \
-    --dataPathInEachExecFolder monitoring/actualTemperedRestarts.csv \
+    --dataPathInEachExecFolder monitoring/${params.outputFile}.csv \
     --keys \
       engine.nPassesPerScan as nPassesPerScan \
-      engine.random as mcRand \
            from arguments.tsv
   """
 }
@@ -93,69 +89,20 @@ process plot {
   data <- read.df("$aggregated", "csv", header="true", inferSchema="true")
   data <- collect(data)
   
-  require("dplyr")
-  data <- data %>%
-    group_by(round, nPassesPerScan) %>%
-    summarize(meanRate = mean(rate))
-  
-  p <- ggplot(data, aes(x = round, y = meanRate, colour = factor(nPassesPerScan))) +
-    geom_line() +
-    theme_bw()  
-  ggsave("${params.model}-nPassesPerScan.pdf", p, width = 10, height = 5, limitsize = FALSE)
-  write.csv(data, "${params.model}-nPassesPerScan.csv")
-  """
-}
-
-process aggregate2 {
-  input:
-    file analysisCode
-    file 'exec_*' from results2.toList()
-  output:
-    file 'results/latest/aggregated' into aggregated2
-  """
-  code/bin/aggregate \
-    --dataPathInEachExecFolder monitoring/asymptoticRoundTripBound.csv \
-    --keys \
-      engine.nPassesPerScan as nPassesPerScan \
-      engine.random as mcRand \
-           from arguments.tsv
-  """
-}
-
-process plot2 {
-  input:
-    file aggregated2
-    env SPARK_HOME from "${System.getProperty('user.home')}/bin/spark-2.1.0-bin-hadoop2.7"
-    
-   output:
-    file '*.pdf'
-    file '*.csv'
-
-  publishDir deliverableDir, mode: 'copy', overwrite: true
-  
-  afterScript 'rm -r metastore_db; rm derby.log'
-    
-  """
-  #!/usr/bin/env Rscript
-  require("ggplot2")
-  library(SparkR, lib.loc = c(file.path(Sys.getenv("SPARK_HOME"), "R", "lib")))
-  sparkR.session(master = "local[*]", sparkConfig = list(spark.driver.memory = "4g"))
-  
-  data <- read.df("$aggregated2", "csv", header="true", inferSchema="true")
-  data <- collect(data)
+  max_round <- max(data\$round)
   
   require("dplyr")
   data <- data %>%
-    group_by(round, nPassesPerScan) %>%
-    summarize(meanRate = mean(rate))
+    filter(round == max_round)
   
-  p <- ggplot(data, aes(x = round, y = meanRate, colour = factor(nPassesPerScan))) +
+  p <- ggplot(data, aes(x = nPassesPerScan, y = rate)) +
     geom_line() +
-    theme_bw()  
-  ggsave("${params.model}-nPassesPerScan-bound.pdf", p, width = 10, height = 5, limitsize = FALSE)
-  write.csv(data, "${params.model}-nPassesPerScan-bound.csv")
+    theme_bw() 
+  write.csv(data, "${params.model}-${params.outputFile}-summary.csv")
+  ggsave("${params.model}-${params.outputFile}-summary.pdf", p, width = 10, height = 5, limitsize = FALSE)
   """
 }
+
 
 process summarizePipeline {
   cache false

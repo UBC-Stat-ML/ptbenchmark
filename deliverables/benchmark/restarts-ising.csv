@@ -1,0 +1,5 @@
+"","round","count","rate","samplingTime_ms","model","method"
+"1",11,678,0.1356,15659,"blang.validation.internals.fixtures.Ising$Builder","Non-reversible PT + SCM init"
+"2",11,644,0.1288,17313,"blang.validation.internals.fixtures.Ising$Builder","Non-reversible PT"
+"3",0,386,0.0386,28856,"blang.validation.internals.fixtures.Ising$Builder","Atchade-Roberts-Rosenthal"
+"4",0,456,0.0456,22466,"blang.validation.internals.fixtures.Ising$Builder","Miasojedow-Moulines-Vihola"

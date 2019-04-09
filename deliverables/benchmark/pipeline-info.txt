@@ -1,0 +1,4 @@
+scriptName: benchmark.nf
+start: Tue Apr 09 11:35:37 PDT 2019
+runName: scruffy_minsky
+nextflow.version: 19.01.0

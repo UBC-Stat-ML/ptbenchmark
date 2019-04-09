@@ -1,4 +1,4 @@
 scriptName: ele.nf
-start: Sun Apr 07 23:59:12 PDT 2019
-runName: curious_wiles
+start: Tue Apr 09 11:33:30 PDT 2019
+runName: exotic_easley
 nextflow.version: 19.01.0
