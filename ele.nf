@@ -8,7 +8,7 @@ process buildCode {
   input:
     val gitRepoName from 'blangDemos'
     val gitUser from 'UBC-Stat-ML'
-    val codeRevision from 'c276c4cf5b236bd6efaa4d663bfd46655a75b691'
+    val codeRevision from 'b4a0593e172afc1c454b70eb20144eac0f07460f'
     val snapshotPath from "${System.getProperty('user.home')}/w/blangDemos"
   output:
     file 'code' into code
@@ -53,6 +53,7 @@ process analysisCode {
 results.into {
   results1
   results2
+  results3
 }
 
 process aggregate {
@@ -154,6 +155,58 @@ process plot2 {
     theme_bw()  
   ggsave("${params.model}-nPassesPerScan-bound.pdf", p, width = 10, height = 5, limitsize = FALSE)
   write.csv(data, "${params.model}-nPassesPerScan-bound.csv")
+  """
+}
+
+process aggregate3 {
+  input:
+    file analysisCode
+    file 'exec_*' from results3.toList()
+  output:
+    file 'results/latest/aggregated' into aggregated3
+  """
+  code/bin/aggregate \
+    --dataPathInEachExecFolder monitoring/lambdaInstantaneous.csv \
+    --keys \
+      engine.nPassesPerScan as nPassesPerScan \
+      engine.random as mcRand \
+           from arguments.tsv
+  """
+}
+
+process plot3 {
+  input:
+    file aggregated3
+    env SPARK_HOME from "${System.getProperty('user.home')}/bin/spark-2.1.0-bin-hadoop2.7"
+    
+   output:
+    file '*.pdf'
+    file '*.csv'
+
+  publishDir deliverableDir, mode: 'copy', overwrite: true
+  
+  afterScript 'rm -r metastore_db; rm derby.log'
+    
+  """
+  #!/usr/bin/env Rscript
+  require("ggplot2")
+  library(SparkR, lib.loc = c(file.path(Sys.getenv("SPARK_HOME"), "R", "lib")))
+  sparkR.session(master = "local[*]", sparkConfig = list(spark.driver.memory = "4g"))
+  
+  data <- read.df("$aggregated3", "csv", header="true", inferSchema="true")
+  data <- collect(data)
+  
+  require("dplyr")
+  data <- data %>%
+    filter(isAdapt == F) %>%
+    group_by(beta, nPassesPerScan) %>%
+    summarize(meanRate = mean(value))
+  
+  p <- ggplot(data, aes(x = beta, y = meanRate, colour = factor(nPassesPerScan))) +
+    geom_line() +
+    theme_bw()  
+  ggsave("${params.model}-lambda.pdf", p, width = 10, height = 5, limitsize = FALSE)
+  write.csv(data, "${params.model}-lambda.csv")
   """
 }
 
