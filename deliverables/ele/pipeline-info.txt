@@ -1,4 +1,4 @@
 scriptName: ele.nf
-start: Mon Apr 15 14:07:38 PDT 2019
-runName: goofy_morse
+start: Mon Apr 15 15:22:10 PDT 2019
+runName: determined_perlman
 nextflow.version: 19.01.0

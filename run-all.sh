@@ -14,7 +14,7 @@ default_options="-resume -qs 1"
 # Experiments concerning the Efficient Local Exploration assumption
 #
 
-for model in Ising-supercritical discrete Ising-critical rockets
+for model in magnetic elliptic Ising-supercritical discrete Ising-critical rockets
 do
   ./nextflow run ele.nf $default_options --model $model 
 done

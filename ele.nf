@@ -100,6 +100,7 @@ process plot {
     summarize(meanRate = mean(rate))
   
   p <- ggplot(data, aes(x = round, y = meanRate, colour = factor(nPassesPerScan))) +
+    scale_colour_discrete(name="Expected updates\nper exploration phase") + 
     geom_line() +
     theme_bw()  
   ggsave("${params.model}-nPassesPerScan.pdf", p, width = 10, height = 5, limitsize = FALSE)
@@ -151,6 +152,7 @@ process plot2 {
     summarize(meanRate = mean(rate))
   
   p <- ggplot(data, aes(x = round, y = meanRate, colour = factor(nPassesPerScan))) +
+    scale_colour_discrete(name="Expected updates\nper exploration phase") + 
     geom_line() +
     theme_bw()  
   ggsave("${params.model}-nPassesPerScan-bound.pdf", p, width = 10, height = 5, limitsize = FALSE)
@@ -203,6 +205,7 @@ process plot3 {
     summarize(meanRate = mean(value))
   
   p <- ggplot(data, aes(x = beta, y = meanRate, colour = factor(nPassesPerScan))) +
+    scale_colour_discrete(name="Expected updates\nper exploration phase") + 
     geom_line() +
     theme_bw()  
   ggsave("${params.model}-lambda.pdf", p, width = 10, height = 5, limitsize = FALSE)
