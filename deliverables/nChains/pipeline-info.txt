@@ -1,0 +1,4 @@
+scriptName: nChains.nf
+start: Mon Apr 15 17:35:43 PDT 2019
+runName: deadly_torricelli
+nextflow.version: 19.01.0
