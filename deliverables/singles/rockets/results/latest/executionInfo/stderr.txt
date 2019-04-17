@@ -1,0 +1,2 @@
+WARNING: There were files not up to date in the code repository (see /Users/bouchard/experiments/ptbenchmark/work/6e/5698e1d9a1ecdfefb98a0710fe775a/results/all/2019-04-12-10-17-43-DLWik474.exec/executionInfo/code/dirty-files.txt)
+    Warning: small concentrations may cause numeric instability to Dirichlet and Beta distributions. Consider enforcing a lower bound of say 0.5 This message may also occur when slice samling outside of such constraint, you can then ignore this message. 

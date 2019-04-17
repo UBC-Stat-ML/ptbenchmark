@@ -1,0 +1,4 @@
+scriptName: singles.nf
+start: Fri Apr 12 10:17:42 PDT 2019
+runName: confident_gutenberg
+nextflow.version: 19.01.0

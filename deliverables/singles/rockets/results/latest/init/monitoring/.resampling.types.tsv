@@ -1,0 +1,3 @@
+iteration	java.lang.Integer
+annealingParameter	java.lang.Double
+logNormalization	java.lang.Double
