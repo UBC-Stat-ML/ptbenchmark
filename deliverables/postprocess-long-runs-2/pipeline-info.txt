@@ -1,0 +1,4 @@
+scriptName: postprocess-long-runs-2.nf
+start: Thu May 02 21:44:51 PDT 2019
+runName: modest_wescoff
+nextflow.version: 19.01.0

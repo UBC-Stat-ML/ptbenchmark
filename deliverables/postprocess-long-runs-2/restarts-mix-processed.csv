@@ -1,0 +1,5 @@
+"","round","count","rate","postAdaptTime_ms","samplingTime_ms","model","engine","method"
+"1",11,36,0.0072,189873,380754,"mix.SimpleMixture$Builder","PT","Non-reversible PT"
+"2",11,32,0.0064,152203,305311,"mix.SimpleMixture$Builder","PT","Non-reversible PT + SCM init"
+"3",0,28,0.0028,400007,3922403,"mix.SimpleMixture$Builder","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola"
+"4",0,0,0,364235,4044484,"mix.SimpleMixture$Builder","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal"

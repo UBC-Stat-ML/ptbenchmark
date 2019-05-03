@@ -1,0 +1,1536 @@
+"","variable","value","postAdaptTime_ms","samplingTime_ms","model","engine","method","isStochasticOpt"
+"1","indicators",124.709369479875,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"2","indicators",572.285575794496,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"3","indicators",214.12817332252,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"4","indicators",1389.4291546462,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"5","indicators",123.385934405138,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"6","indicators",123.218804329214,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"7","indicators",126.599535849333,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"8","indicators",129.24309116557,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"9","indicators",123.56313623387,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"10","indicators",133.831377696032,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"11","indicators",180.107129136271,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"12","indicators",1251.02252151548,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"13","indicators",335.367521324479,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"14","indicators",123.044336570428,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"15","indicators",175.028281111495,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"16","indicators",127.623260351109,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"17","indicators",152.113741384402,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"18","indicators",123.54969852923,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"19","indicators",123.515949888185,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"20","indicators",126.220532514356,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"21","indicators",124.590508112202,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"22","indicators",123.102429012632,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"23","indicators",122.99389492777,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"24","indicators",122.99389492777,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"25","indicators",1715.83323767641,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"26","indicators",124.074173270678,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"27","indicators",1408.83065979134,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"28","indicators",124.481313793227,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"29","indicators",131.772732388179,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"30","indicators",164.065822967749,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"31","indicators",126.626494525925,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"32","indicators",125.330216795334,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"33","indicators",126.033419537431,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"34","indicators",123.104794639953,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"35","indicators",143.518231761823,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"36","indicators",122.981568854162,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"37","indicators",124.211459986304,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"38","indicators",130.253881576663,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"39","indicators",174.536918353974,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"40","indicators",157.306810633271,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"41","indicators",137.834611946065,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"42","indicators",122.994393356274,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"43","indicators",123.247954290652,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"44","indicators",129.212193048726,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"45","indicators",398.583869692675,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"46","indicators",1595.98729987199,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"47","indicators",122.992894839898,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"48","indicators",124.396322660093,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"49","indicators",160.892150339088,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"50","indicators",122.994890708039,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"51","indicators",122.994393356274,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"52","indicators",122.992894839898,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"53","indicators",141.015283862699,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"54","indicators",141.301564978493,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"55","indicators",564.972762787833,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"56","indicators",143.71408527887,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"57","indicators",274.040828503209,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"58","indicators",848.952771308199,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"59","indicators",131.350318870653,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"60","indicators",569.909588900117,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"61","indicators",262.540147922549,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"62","indicators",139.039972068211,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"63","indicators",126.935319079831,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"64","indicators",122.994393356274,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"65","indicators",134.679431042864,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"66","indicators",123.288436067402,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"67","indicators",2129.17298160342,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"68","indicators",123.324057131119,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"69","indicators",125.491107965382,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"70","indicators",123.220180503845,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"71","indicators",123.169608561582,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"72","indicators",142.195708662697,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"73","indicators",126.305150790645,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"74","indicators",123.339053205223,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"75","indicators",291.966553324363,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"76","indicators",130.574136823335,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"77","indicators",123.598541469397,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"78","indicators",123.907994664746,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"79","indicators",149.53246616671,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"80","indicators",124.403025147638,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"81","indicators",128.675307009721,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"82","indicators",122.995386982802,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"83","indicators",290.688408044764,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"84","indicators",254.532524668895,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"85","indicators",125.68315782463,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"86","indicators",122.994890708039,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"87","indicators",145.264075963393,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"88","indicators",123.039427401507,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"89","indicators",123.136514577863,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"90","indicators",141.854713463407,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"91","indicators",318.412967436277,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"92","indicators",123.223357935873,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"93","indicators",123.09995603836,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"94","indicators",122.994393356274,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"95","indicators",180.847450023298,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"96","indicators",122.991890444544,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"97","indicators",210.808310185301,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"98","indicators",123.362267447546,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"99","indicators",418.629518155248,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"100","indicators",394.88953804048,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"101","indicators",135.627820168135,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"102","indicators",124.954924099904,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"103","indicators",175.882862152863,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"104","indicators",123.174841873427,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"105","indicators",122.994890708039,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"106","indicators",123.367584415952,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"107","indicators",143.35735687773,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"108","indicators",216.539777530859,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"109","indicators",136.03537534916,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"110","indicators",123.139280281676,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"111","indicators",344.380523557025,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"112","indicators",303.536425058138,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"113","indicators",2210.24767707594,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"114","indicators",122.99389492777,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"115","indicators",2051.55237899521,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"116","indicators",123.321310171008,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"117","indicators",123.150058670913,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"118","indicators",1542.68063159836,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"119","indicators",122.994890708039,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"120","indicators",137.486413808901,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"121","indicators",131.007501772023,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"122","indicators",141.038331872163,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"123","indicators",159.524486121965,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"124","indicators",132.191048044347,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"125","indicators",133.80650165714,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"126","indicators",128.349135005035,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"127","indicators",2306.84838567929,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"128","indicators",127.861566491659,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"129","indicators",137.983946637839,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"130","indicators",255.847375973154,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"131","indicators",128.809758515188,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"132","indicators",126.632406379358,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"133","indicators",129.494295688235,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"134","indicators",144.234143467728,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"135","indicators",241.779770952071,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"136","indicators",352.072755091767,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"137","indicators",127.322869335098,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"138","indicators",136.398847418907,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"139","indicators",128.256301034442,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"140","indicators",277.763310705036,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"141","indicators",128.88235512629,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"142","indicators",132.806328522448,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"143","indicators",127.19845633829,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"144","indicators",215.389906867992,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"145","indicators",133.073311303834,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"146","indicators",230.355354830196,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"147","indicators",131.74550589472,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"148","indicators",223.687585369819,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"149","indicators",186.24020319525,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"150","indicators",136.781263257718,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"151","indicators",262.553661635863,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"152","indicators",194.7265450947,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"153","indicators",438.366095737973,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"154","indicators",137.095108388747,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"155","indicators",126.451135271044,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"156","indicators",133.220028506444,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"157","indicators",130.438466857304,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"158","indicators",1090.58767629318,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"159","indicators",131.365327067746,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"160","indicators",217.006263732414,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"161","indicators",133.354322718295,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"162","indicators",143.189705882808,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"163","indicators",139.32752963091,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"164","indicators",142.469221560215,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"165","indicators",142.067301137743,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"166","indicators",148.873544893718,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"167","indicators",135.324054190922,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"168","indicators",129.072300979179,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"169","indicators",128.069697607665,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"170","indicators",131.359789984053,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"171","indicators",151.203707568604,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"172","indicators",166.390399371751,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"173","indicators",184.275799686512,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"174","indicators",136.822505665965,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"175","indicators",178.241624341633,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"176","indicators",157.887625003423,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"177","indicators",130.092851228595,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"178","indicators",153.21461045941,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"179","indicators",136.193007183917,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"180","indicators",126.104060969024,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"181","indicators",138.102461060716,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"182","indicators",128.127188957635,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"183","indicators",133.5115510596,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"184","indicators",131.738696986706,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"185","indicators",131.247571147013,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"186","indicators",126.118347491169,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"187","indicators",1844.60820288192,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"188","indicators",133.360667572809,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"189","indicators",130.084340682008,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"190","indicators",127.62219524833,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"191","indicators",2143.46589616421,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"192","indicators",129.665994240803,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"193","indicators",169.924741954434,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"194","indicators",157.599831258164,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"195","indicators",146.785085014458,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"196","indicators",137.688503763509,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"197","indicators",131.502349723275,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"198","indicators",126.974721179309,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"199","indicators",128.48147104151,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"200","indicators",127.845600706157,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"201","indicators",137.896157295315,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"202","indicators",127.591944651887,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"203","indicators",130.368546721074,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"204","indicators",153.583576539863,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"205","indicators",160.760128256473,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"206","indicators",131.884196736058,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"207","indicators",132.347759531879,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"208","indicators",383.221760584306,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"209","indicators",187.131114066938,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"210","indicators",127.745906926638,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"211","indicators",134.699134346249,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"212","indicators",132.059203573467,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"213","indicators",131.740698116393,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"214","indicators",127.435190815918,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"215","indicators",254.799257894875,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"216","indicators",129.002543651902,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"217","indicators",1993.80928262759,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"218","indicators",130.030526683992,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"219","indicators",132.539421652524,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"220","indicators",197.624854103263,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"221","indicators",170.512520038217,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"222","indicators",139.790907974924,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"223","indicators",142.257367963309,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"224","indicators",279.700719726527,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"225","indicators",202.364646230113,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"226","indicators",126.511728512871,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"227","indicators",131.226515658062,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"228","indicators",126.984998924299,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"229","indicators",1065.6588687463,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"230","indicators",135.975240780016,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"231","indicators",126.0680828264,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"232","indicators",133.789745135264,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"233","indicators",227.603035231637,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"234","indicators",194.064090632595,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"235","indicators",161.49412896974,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"236","indicators",143.752245278732,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"237","indicators",128.460098240761,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"238","indicators",125.547047943316,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"239","indicators",147.758820499439,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"240","indicators",140.031653411993,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"241","indicators",230.745611919892,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"242","indicators",125.596873833066,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"243","indicators",185.194571749354,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"244","indicators",127.841600214557,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"245","indicators",132.708571803365,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"246","indicators",154.854147729339,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"247","indicators",1892.09663695838,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"248","indicators",127.459859503153,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"249","indicators",129.976457136854,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"250","indicators",127.522303625936,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"251","indicators",139.622151081586,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"252","indicators",138.181441656202,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"253","indicators",135.270586607425,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"254","indicators",137.981192662692,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"255","indicators",132.072340550978,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"256","indicators",138.010042524633,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"257","indicators",130.507638293262,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"258","indicators",127.647930952816,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"259","indicators",1218.49690042847,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"260","indicators",649.893970585188,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"261","indicators",167.166107919203,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"262","indicators",130.153994730622,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"263","indicators",131.076906690301,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"264","indicators",230.269180130624,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"265","indicators",160.659211296905,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"266","indicators",160.436181918945,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"267","indicators",140.066213635429,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"268","indicators",2119.70528953206,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"269","indicators",178.074113899374,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"270","indicators",127.869394433959,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"271","indicators",128.289314236507,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"272","indicators",131.339619596539,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"273","indicators",134.268856963388,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"274","indicators",138.268241777432,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"275","indicators",144.191653007428,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"276","indicators",127.640013931014,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"277","indicators",131.361795903765,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"278","indicators",781.584437274482,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"279","indicators",142.981704291898,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"280","indicators",158.170132457736,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"281","indicators",127.193227272668,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"282","indicators",160.060358977528,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"283","indicators",137.194992079494,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"284","indicators",370.208654860568,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"285","indicators",131.426379958789,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"286","indicators",128.909738503251,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"287","indicators",148.196099227724,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"288","indicators",197.899738622506,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"289","indicators",126.493612637861,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"290","indicators",127.869285108991,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"291","indicators",126.586428891735,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"292","indicators",129.259140590811,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"293","indicators",159.187544309657,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"294","indicators",219.171246857325,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"295","indicators",262.173001445764,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"296","indicators",127.920251614548,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"297","indicators",127.163945369464,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"298","indicators",128.774729526247,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"299","indicators",137.536379732985,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"300","indicators",129.469094091549,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"301","logDensity",511.377759023151,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"302","means",124.29400018006,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"303","means",118.577189444373,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"304","pi",134.265265859384,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"305","pi",134.265265859384,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"306","sds",225.833543906983,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"307","sds",274.00368982009,189873,380754,"SimpleMixture","PT","Non-reversible PT",0
+"308","indicators",159.81620641543,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"309","indicators",654.31237802639,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"310","indicators",270.122049301987,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"311","indicators",1345.29599645991,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"312","indicators",156.035805507615,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"313","indicators",155.437695501689,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"314","indicators",161.529856199378,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"315","indicators",164.332093563671,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"316","indicators",155.680499330955,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"317","indicators",167.535920982008,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"318","indicators",210.859690768615,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"319","indicators",1346.76933005183,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"320","indicators",447.103087707161,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"321","indicators",154.970198447437,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"322","indicators",226.018476774004,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"323","indicators",160.397392648605,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"324","indicators",184.204083345239,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"325","indicators",155.061539473425,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"326","indicators",157.269326977517,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"327","indicators",159.137758977071,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"328","indicators",155.853653227364,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"329","indicators",155.718593048456,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"330","indicators",154.970198447437,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"331","indicators",154.970198447437,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"332","indicators",2106.85462870161,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"333","indicators",156.325418200252,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"334","indicators",1266.22419957302,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"335","indicators",156.073350008371,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"336","indicators",165.036155909956,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"337","indicators",208.031530093165,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"338","indicators",159.811427852155,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"339","indicators",157.315154428895,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"340","indicators",157.373879841902,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"341","indicators",154.97573029126,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"342","indicators",177.635287761031,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"343","indicators",155.39965573348,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"344","indicators",157.018001249451,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"345","indicators",163.897011375956,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"346","indicators",212.668178023655,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"347","indicators",197.910398566286,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"348","indicators",175.397737972311,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"349","indicators",155.221106173242,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"350","indicators",155.932959583214,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"351","indicators",166.663956374032,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"352","indicators",527.755400057202,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"353","indicators",2134.39099910592,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"354","indicators",154.97573029126,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"355","indicators",156.241491869031,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"356","indicators",198.38017828054,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"357","indicators",154.964660752122,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"358","indicators",154.967430331032,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"359","indicators",154.97573029126,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"360","indicators",181.722046497579,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"361","indicators",176.090847050759,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"362","indicators",665.633569164991,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"363","indicators",188.098404157083,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"364","indicators",313.114586344003,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"365","indicators",1350.81779397338,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"366","indicators",162.649448380278,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"367","indicators",808.530366290034,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"368","indicators",311.933262450555,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"369","indicators",176.934558528608,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"370","indicators",159.450001378923,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"371","indicators",154.967430331032,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"372","indicators",168.927420545685,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"373","indicators",155.020248147134,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"374","indicators",1613.02075636991,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"375","indicators",155.228431045423,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"376","indicators",161.072024414868,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"377","indicators",154.964660752122,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"378","indicators",155.222624328483,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"379","indicators",173.688047064643,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"380","indicators",158.344106471079,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"381","indicators",154.970198447437,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"382","indicators",383.838679313537,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"383","indicators",163.014903149694,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"384","indicators",155.625153104659,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"385","indicators",155.688901770384,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"386","indicators",186.671506915473,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"387","indicators",154.993450388448,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"388","indicators",162.051675844672,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"389","indicators",156.220816018065,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"390","indicators",348.896358205489,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"391","indicators",304.449759720448,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"392","indicators",159.7346266856,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"393","indicators",154.964660752122,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"394","indicators",172.946592686785,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"395","indicators",155.221106173242,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"396","indicators",154.959117206303,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"397","indicators",178.795504991866,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"398","indicators",357.462811355687,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"399","indicators",155.15652043703,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"400","indicators",155.112019046486,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"401","indicators",154.967430331032,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"402","indicators",218.935312925402,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"403","indicators",154.981256282427,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"404","indicators",237.277518675244,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"405","indicators",155.936806954285,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"406","indicators",491.995717687509,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"407","indicators",546.912388116442,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"408","indicators",171.114906571029,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"409","indicators",156.540627552959,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"410","indicators",217.506496989318,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"411","indicators",155.223873466595,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"412","indicators",154.964660752122,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"413","indicators",154.956343240086,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"414","indicators",180.288427783599,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"415","indicators",290.144404495793,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"416","indicators",167.248125065544,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"417","indicators",154.970198447437,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"418","indicators",431.54309188952,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"419","indicators",389.254464595225,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"420","indicators",1775.1236570766,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"421","indicators",154.970198447437,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"422","indicators",1968.69462532552,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"423","indicators",155.603907207856,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"424","indicators",155.243203421614,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"425","indicators",1995.92362387577,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"426","indicators",154.964660752122,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"427","indicators",175.383518372714,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"428","indicators",165.568833914729,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"429","indicators",174.936008647692,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"430","indicators",200.677579521403,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"431","indicators",163.225877584497,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"432","indicators",171.236364209026,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"433","indicators",163.999895689831,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"434","indicators",2034.44483206427,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"435","indicators",157.957501177109,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"436","indicators",175.891891923847,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"437","indicators",281.752195897351,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"438","indicators",162.069800273244,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"439","indicators",163.26424203969,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"440","indicators",161.781320234677,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"441","indicators",179.243051448342,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"442","indicators",315.424895697215,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"443","indicators",431.385445820752,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"444","indicators",158.183113088709,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"445","indicators",170.521611882878,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"446","indicators",164.488913876466,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"447","indicators",346.888114919574,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"448","indicators",159.309604400592,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"449","indicators",171.164455622719,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"450","indicators",160.747006104382,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"451","indicators",284.462732396606,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"452","indicators",164.282986649849,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"453","indicators",311.628299231127,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"454","indicators",164.354652724734,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"455","indicators",276.565223295588,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"456","indicators",249.468892497877,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"457","indicators",165.626794444588,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"458","indicators",332.353906561951,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"459","indicators",232.683927491354,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"460","indicators",501.529723433191,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"461","indicators",176.16087257173,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"462","indicators",160.528504340735,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"463","indicators",166.803752701871,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"464","indicators",166.173359233356,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"465","indicators",1172.0779008678,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"466","indicators",159.917117672355,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"467","indicators",259.75108281764,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"468","indicators",162.487772929799,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"469","indicators",186.007117152993,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"470","indicators",180.638226904827,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"471","indicators",173.413825403823,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"472","indicators",182.4906749539,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"473","indicators",182.434632440597,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"474","indicators",171.978966263285,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"475","indicators",160.187449224382,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"476","indicators",160.72408500372,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"477","indicators",173.850602981423,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"478","indicators",196.906377809576,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"479","indicators",204.765154980645,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"480","indicators",222.501112055468,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"481","indicators",177.190708438553,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"482","indicators",221.708916208269,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"483","indicators",202.242697869584,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"484","indicators",169.008372185852,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"485","indicators",192.922028465912,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"486","indicators",173.001105832543,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"487","indicators",162.245023627691,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"488","indicators",175.156199495812,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"489","indicators",160.211864723405,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"490","indicators",167.416258725401,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"491","indicators",167.434268789584,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"492","indicators",166.957565903063,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"493","indicators",162.842973027807,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"494","indicators",1750.07903747798,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"495","indicators",167.416694991256,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"496","indicators",165.172627940431,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"497","indicators",159.867507419467,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"498","indicators",1987.68603458634,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"499","indicators",166.240147835383,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"500","indicators",215.539842497432,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"501","indicators",209.352748023046,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"502","indicators",177.452594330255,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"503","indicators",171.900973870291,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"504","indicators",162.992776856482,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"505","indicators",160.030202840684,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"506","indicators",162.401021804851,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"507","indicators",160.571166873183,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"508","indicators",175.344746278984,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"509","indicators",162.028164422333,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"510","indicators",158.017888409907,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"511","indicators",198.528327054156,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"512","indicators",204.253091095985,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"513","indicators",167.450496258144,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"514","indicators",170.722946239947,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"515","indicators",502.701658075607,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"516","indicators",238.820254968191,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"517","indicators",162.230734814363,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"518","indicators",170.28131436893,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"519","indicators",166.353007358437,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"520","indicators",164.709463819561,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"521","indicators",163.075623170538,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"522","indicators",307.32400428466,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"523","indicators",160.889206133388,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"524","indicators",1909.68960854155,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"525","indicators",162.049289067635,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"526","indicators",173.942180938384,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"527","indicators",256.617256509141,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"528","indicators",217.352259225207,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"529","indicators",175.066616990785,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"530","indicators",174.38950726071,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"531","indicators",335.61699729371,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"532","indicators",264.207773138256,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"533","indicators",161.657788101948,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"534","indicators",168.458515864029,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"535","indicators",161.141731107658,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"536","indicators",1111.00647146016,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"537","indicators",172.78695128266,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"538","indicators",158.44492145719,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"539","indicators",170.800281482059,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"540","indicators",302.214580423346,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"541","indicators",241.380486676446,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"542","indicators",218.189759908593,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"543","indicators",185.268432093057,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"544","indicators",163.88805822673,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"545","indicators",159.60941179128,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"546","indicators",177.65105516657,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"547","indicators",174.383142050751,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"548","indicators",265.630906421631,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"549","indicators",163.630022206043,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"550","indicators",241.854099503243,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"551","indicators",163.725821043978,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"552","indicators",168.020690778742,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"553","indicators",195.67578188812,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"554","indicators",2534.46912345462,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"555","indicators",162.709867416508,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"556","indicators",162.470476206272,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"557","indicators",163.875056060248,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"558","indicators",180.075223866553,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"559","indicators",176.005416869637,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"560","indicators",169.520581187637,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"561","indicators",167.37220645602,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"562","indicators",165.906379422845,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"563","indicators",175.685713759243,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"564","indicators",158.188924232762,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"565","indicators",162.41720511235,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"566","indicators",1580.49986440099,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"567","indicators",646.738066286257,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"568","indicators",219.279380091079,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"569","indicators",164.15399921955,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"570","indicators",160.231135153601,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"571","indicators",294.40154335655,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"572","indicators",200.865617329929,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"573","indicators",203.218999630487,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"574","indicators",181.090127653431,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"575","indicators",1897.73665191133,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"576","indicators",252.65430316735,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"577","indicators",161.278407937484,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"578","indicators",166.212881016856,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"579","indicators",166.25503296829,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"580","indicators",169.737888446945,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"581","indicators",182.303711889314,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"582","indicators",174.897319268628,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"583","indicators",160.897052272207,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"584","indicators",168.289045424829,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"585","indicators",885.721082769099,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"586","indicators",187.042415729067,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"587","indicators",204.818858846605,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"588","indicators",163.244078827355,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"589","indicators",198.342698820678,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"590","indicators",175.486867910884,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"591","indicators",432.692124079788,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"592","indicators",174.159556197598,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"593","indicators",166.083655906764,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"594","indicators",191.187129798548,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"595","indicators",244.284773492767,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"596","indicators",159.120686284323,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"597","indicators",161.371636218832,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"598","indicators",163.780446880133,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"599","indicators",161.930569885158,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"600","indicators",212.809963821972,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"601","indicators",315.113976686126,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"602","indicators",339.223819176898,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"603","indicators",161.93952611146,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"604","indicators",164.025538682635,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"605","indicators",156.586200296713,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"606","indicators",181.238377617888,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"607","indicators",160.677532742276,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"608","logDensity",342.534039842432,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"609","means",155.338677588686,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"610","means",151.057750839051,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"611","pi",171.945663982006,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"612","pi",171.945663982006,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"613","sds",252.301911919251,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"614","sds",287.560946366665,152203,305311,"SimpleMixture","PT","Non-reversible PT + SCM init",0
+"615","indicators",102.805747994851,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"616","indicators",433.282234662058,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"617","indicators",205.881716423855,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"618","indicators",1031.35513752983,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"619","indicators",100.427880243369,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"620","indicators",100.979420324989,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"621","indicators",103.395926003256,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"622","indicators",106.366938003882,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"623","indicators",101.196063460167,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"624","indicators",112.582766810543,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"625","indicators",140.274531774,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"626","indicators",643.769146093533,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"627","indicators",268.22089185311,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"628","indicators",100.347611393029,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"629","indicators",143.539811090871,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"630","indicators",104.736033687903,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"631","indicators",120.209195885465,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"632","indicators",100.544532599018,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"633","indicators",101.03256838894,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"634","indicators",101.544086886251,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"635","indicators",100.855209778259,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"636","indicators",100.342619381193,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"637","indicators",100.347611393029,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"638","indicators",100.347611393029,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"639","indicators",915.413167851416,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"640","indicators",100.816276458319,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"641","indicators",748.661380648433,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"642","indicators",101.23197052128,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"643","indicators",106.961985297105,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"644","indicators",129.285851197658,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"645","indicators",102.377537029917,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"646","indicators",100.857362758875,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"647","indicators",102.156614385252,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"648","indicators",100.920346451018,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"649","indicators",113.291632741551,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"650","indicators",100.551627845831,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"651","indicators",100.920908848519,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"652","indicators",105.400841309575,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"653","indicators",136.038338463768,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"654","indicators",126.518662873052,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"655","indicators",112.436709868459,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"656","indicators",100.346900532172,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"657","indicators",100.904665769575,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"658","indicators",105.254447187206,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"659","indicators",359.693513219086,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"660","indicators",792.475500970416,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"661","indicators",100.349030830566,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"662","indicators",101.512888787485,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"663","indicators",129.544800605903,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"664","indicators",100.555841153941,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"665","indicators",100.346900532172,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"666","indicators",100.349030830566,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"667","indicators",113.850832108763,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"668","indicators",114.125212427302,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"669","indicators",474.678141561437,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"670","indicators",118.098833034109,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"671","indicators",243.14914446973,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"672","indicators",749.984983264678,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"673","indicators",106.387983452852,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"674","indicators",615.695694083633,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"675","indicators",202.468468570529,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"676","indicators",123.092635276054,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"677","indicators",101.93317499725,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"678","indicators",100.346900532172,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"679","indicators",109.613283258465,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"680","indicators",100.676394832001,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"681","indicators",861.250704165442,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"682","indicators",100.702442713002,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"683","indicators",102.536843631732,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"684","indicators",100.442949451049,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"685","indicators",100.425654176188,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"686","indicators",113.091391114624,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"687","indicators",102.541726727009,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"688","indicators",100.347611393029,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"689","indicators",225.446791023026,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"690","indicators",105.511848366827,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"691","indicators",100.539490693052,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"692","indicators",101.30416507091,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"693","indicators",122.932331023718,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"694","indicators",101.332529798013,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"695","indicators",103.919497459558,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"696","indicators",100.345476526804,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"697","indicators",273.585976289914,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"698","indicators",197.729514430522,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"699","indicators",102.360562269316,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"700","indicators",100.346188910155,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"701","indicators",116.220649527752,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"702","indicators",100.346900532172,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"703","indicators",100.451076767037,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"704","indicators",121.027755131409,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"705","indicators",214.780943809517,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"706","indicators",100.453914240838,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"707","indicators",100.425654176188,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"708","indicators",100.346900532172,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"709","indicators",140.583611629029,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"710","indicators",100.350447222528,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"711","indicators",154.278079623714,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"712","indicators",100.935780934506,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"713","indicators",324.466818071699,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"714","indicators",414.643877163018,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"715","indicators",110.609386595912,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"716","indicators",101.175493053154,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"717","indicators",151.167067784222,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"718","indicators",100.347611393029,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"719","indicators",100.346188910155,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"720","indicators",100.460295346287,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"721","indicators",119.366565822694,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"722","indicators",167.994667348051,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"723","indicators",117.494531280604,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"724","indicators",100.347611393029,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"725","indicators",307.385211638307,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"726","indicators",263.032954429632,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"727","indicators",1265.57960730868,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"728","indicators",100.347611393029,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"729","indicators",1100.29481539124,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"730","indicators",100.607035108777,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"731","indicators",100.662628257061,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"732","indicators",1013.74896068909,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"733","indicators",100.346188910155,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"734","indicators",115.770009096953,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"735","indicators",114.20930480012,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"736","indicators",119.320811930927,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"737","indicators",138.409891775947,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"738","indicators",108.373080289927,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"739","indicators",117.524587702172,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"740","indicators",109.154033357226,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"741","indicators",1060.56745597931,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"742","indicators",107.509443909451,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"743","indicators",116.672790475392,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"744","indicators",222.249916934438,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"745","indicators",110.749834493529,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"746","indicators",107.850953784466,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"747","indicators",107.536899449371,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"748","indicators",122.575054988981,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"749","indicators",213.185686459221,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"750","indicators",337.867221278771,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"751","indicators",108.106495063311,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"752","indicators",115.750915978723,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"753","indicators",106.28567495863,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"754","indicators",267.38176277724,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"755","indicators",108.773015936409,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"756","indicators",112.015186963956,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"757","indicators",106.511077019961,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"758","indicators",199.601238592882,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"759","indicators",112.492253318528,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"760","indicators",208.609534713852,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"761","indicators",108.589260689556,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"762","indicators",211.928933195879,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"763","indicators",170.293301123676,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"764","indicators",115.4467420017,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"765","indicators",205.209364936909,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"766","indicators",185.970878604749,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"767","indicators",396.538094607763,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"768","indicators",120.278365940247,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"769","indicators",105.758877984842,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"770","indicators",111.867490834872,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"771","indicators",109.101235296692,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"772","indicators",596.17452305886,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"773","indicators",107.341265820988,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"774","indicators",202.124378764372,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"775","indicators",108.80927000838,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"776","indicators",128.949960079667,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"777","indicators",118.90851961137,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"778","indicators",123.458381321471,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"779","indicators",125.055533738285,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"780","indicators",128.651676406925,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"781","indicators",115.795227684136,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"782","indicators",108.756498348786,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"783","indicators",108.77707135722,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"784","indicators",114.029206563836,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"785","indicators",133.665984503289,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"786","indicators",144.264893371467,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"787","indicators",160.596958424129,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"788","indicators",117.827357575584,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"789","indicators",162.027135675277,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"790","indicators",130.747480190912,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"791","indicators",110.365268594304,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"792","indicators",134.578467358067,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"793","indicators",116.641212098473,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"794","indicators",107.660058697687,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"795","indicators",118.039921059235,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"796","indicators",106.075501484817,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"797","indicators",109.981273800454,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"798","indicators",111.25291842359,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"799","indicators",110.85305438749,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"800","indicators",109.328429283104,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"801","indicators",1019.40992136888,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"802","indicators",112.796515196954,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"803","indicators",108.136605213192,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"804","indicators",106.12645831741,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"805","indicators",1182.51801574853,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"806","indicators",110.599885082928,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"807","indicators",145.008816821947,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"808","indicators",137.688103573063,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"809","indicators",124.200643086862,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"810","indicators",117.215946589979,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"811","indicators",112.595437199543,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"812","indicators",108.485088325983,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"813","indicators",108.777105913285,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"814","indicators",109.410192962408,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"815","indicators",119.550012964242,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"816","indicators",107.204734010344,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"817","indicators",106.801212924194,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"818","indicators",136.382312452931,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"819","indicators",141.941058068842,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"820","indicators",111.415456950036,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"821","indicators",115.072624791484,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"822","indicators",475.46983236927,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"823","indicators",176.332049609631,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"824","indicators",108.058401321788,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"825","indicators",111.949327255107,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"826","indicators",108.66299462996,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"827","indicators",111.782363560615,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"828","indicators",108.24168729267,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"829","indicators",237.875624276307,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"830","indicators",107.53206768086,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"831","indicators",1220.86913872889,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"832","indicators",108.788656337172,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"833","indicators",112.215350015823,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"834","indicators",194.335890259168,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"835","indicators",155.964128188101,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"836","indicators",134.553143247046,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"837","indicators",117.115899682279,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"838","indicators",242.574240879458,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"839","indicators",200.51957452284,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"840","indicators",108.96166978512,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"841","indicators",109.326906416796,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"842","indicators",108.135760178369,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"843","indicators",838.612937595119,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"844","indicators",115.313289004301,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"845","indicators",106.662776470961,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"846","indicators",111.937879725276,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"847","indicators",199.033640700073,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"848","indicators",183.157756126461,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"849","indicators",141.638181905252,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"850","indicators",123.472633129273,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"851","indicators",108.655866929543,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"852","indicators",108.089813876648,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"853","indicators",125.855144946373,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"854","indicators",116.74475075937,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"855","indicators",213.912904486262,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"856","indicators",106.077648785922,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"857","indicators",172.139744155938,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"858","indicators",108.961165643277,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"859","indicators",112.187239514352,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"860","indicators",132.479642745404,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"861","indicators",1221.56213921947,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"862","indicators",106.694803737795,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"863","indicators",107.61631602328,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"864","indicators",103.947733259752,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"865","indicators",118.343212290461,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"866","indicators",117.992319414052,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"867","indicators",117.605532861982,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"868","indicators",112.576115720854,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"869","indicators",108.355748538747,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"870","indicators",118.253818370834,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"871","indicators",108.880915712309,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"872","indicators",107.775045382517,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"873","indicators",714.119438363987,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"874","indicators",528.700210189817,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"875","indicators",152.152000536018,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"876","indicators",110.087938032157,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"877","indicators",110.470360189535,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"878","indicators",219.243105075945,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"879","indicators",148.58404517262,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"880","indicators",144.390273900868,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"881","indicators",119.02992667961,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"882","indicators",1074.05432673475,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"883","indicators",176.924889012701,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"884","indicators",107.778318657152,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"885","indicators",107.304490651002,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"886","indicators",110.907145139866,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"887","indicators",112.661673917557,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"888","indicators",116.940495810071,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"889","indicators",122.634728604741,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"890","indicators",109.510921912346,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"891","indicators",108.897100392249,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"892","indicators",729.71487290435,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"893","indicators",125.986214734373,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"894","indicators",140.557388447065,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"895","indicators",107.778342508011,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"896","indicators",137.13393725546,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"897","indicators",120.578700382281,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"898","indicators",254.2596392319,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"899","indicators",111.601202609203,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"900","indicators",107.612499072692,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"901","indicators",127.004941704086,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"902","indicators",176.549262236543,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"903","indicators",107.076909079564,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"904","indicators",107.185464432312,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"905","indicators",108.357750447098,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"906","indicators",107.577984001797,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"907","indicators",148.223547085287,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"908","indicators",209.740502809801,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"909","indicators",241.054091471511,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"910","indicators",107.173208133125,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"911","indicators",108.036639276213,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"912","indicators",110.683140246538,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"913","indicators",118.460064066672,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"914","indicators",109.129170982458,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"915","logDensity",224.779915840088,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"916","means",102.699742403958,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"917","means",99.5378830585935,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"918","pi",125.501212582549,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"919","pi",125.501212582549,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"920","sds",139.883152587939,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"921","sds",157.023016108472,200003.5,3922403,"SimpleMixture","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola",1
+"922","indicators",66.1443455034001,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"923","indicators",285.134785483883,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"924","indicators",132.550136245818,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"925","indicators",1014.69718309491,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"926","indicators",65.2252678256642,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"927","indicators",65.2632951807168,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"928","indicators",66.4396804567722,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"929","indicators",68.7949691967121,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"930","indicators",65.2083665016366,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"931","indicators",73.3254781901569,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"932","indicators",86.6605576983596,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"933","indicators",445.311014279638,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"934","indicators",170.892228995368,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"935","indicators",65.0472692970706,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"936","indicators",90.6452488786775,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"937","indicators",67.0165464641882,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"938","indicators",76.4456553311815,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"939","indicators",65.2679220611407,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"940","indicators",65.2384318252399,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"941","indicators",67.121387201202,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"942","indicators",65.5879511318506,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"943","indicators",65.1313302568013,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"944","indicators",64.9985034378078,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"945","indicators",65.0472692970706,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"946","indicators",771.737322555835,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"947","indicators",65.2345339825096,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"948","indicators",526.323178740343,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"949","indicators",65.7124305425467,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"950","indicators",68.945670611503,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"951","indicators",81.8476350072728,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"952","indicators",67.2288712083838,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"953","indicators",65.3512116478509,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"954","indicators",66.4784615792366,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"955","indicators",65.1332290602192,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"956","indicators",73.3841950217483,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"957","indicators",65.1169973653045,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"958","indicators",65.4439577129058,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"959","indicators",67.2100969468928,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"960","indicators",89.6897724393459,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"961","indicators",79.7280404899116,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"962","indicators",72.1961762732637,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"963","indicators",65.0037135639393,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"964","indicators",65.4925421837985,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"965","indicators",69.9502694279924,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"966","indicators",275.354532611492,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"967","indicators",617.139525702985,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"968","indicators",65.0368387380885,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"969","indicators",65.7797150353825,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"970","indicators",83.9761594894408,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"971","indicators",65.0089240893782,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"972","indicators",65.0037135639393,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"973","indicators",64.9880843829204,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"974","indicators",73.2294640071552,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"975","indicators",74.7169268456369,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"976","indicators",345.608693073135,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"977","indicators",77.0223901887505,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"978","indicators",167.623585586605,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"979","indicators",704.873605697665,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"980","indicators",69.7896732250014,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"981","indicators",438.805855035686,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"982","indicators",125.900424321337,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"983","indicators",81.014661847939,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"984","indicators",66.3980078574879,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"985","indicators",65.0999932365172,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"986","indicators",70.5791432582505,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"987","indicators",65.0752258159789,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"988","indicators",603.167359217615,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"989","indicators",65.122777449647,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"990","indicators",66.2091031048604,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"991","indicators",65.0577014556739,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"992","indicators",65.2031327004512,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"993","indicators",72.3102635994859,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"994","indicators",66.2500868273162,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"995","indicators",64.9985034378078,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"996","indicators",134.619226297331,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"997","indicators",68.9305889923344,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"998","indicators",65.2136007049457,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"999","indicators",65.4899821174448,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1000","indicators",77.5904567362646,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1001","indicators",65.4920394923906,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1002","indicators",67.8858064209682,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1003","indicators",65.0629181349503,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1004","indicators",186.60420592425,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1005","indicators",121.933329867424,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1006","indicators",66.977190152056,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1007","indicators",65.0089240893782,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1008","indicators",74.6882257225617,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1009","indicators",65.0037135639393,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1010","indicators",65.0193463379032,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1011","indicators",75.8570824067353,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1012","indicators",157.760895029999,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1013","indicators",65.0961083855448,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1014","indicators",65.1065520740045,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1015","indicators",65.0037135639393,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1016","indicators",89.8231527593585,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1017","indicators",65.122777449647,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1018","indicators",104.796253568916,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1019","indicators",65.2260100850223,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1020","indicators",196.575422639013,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1021","indicators",256.891946475398,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1022","indicators",71.5171854672767,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1023","indicators",66.0730386156177,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1024","indicators",104.182307438505,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1025","indicators",64.9985034378078,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1026","indicators",65.0089240893782,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1027","indicators",65.0245580612434,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1028","indicators",74.7449291149114,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1029","indicators",110.815954958235,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1030","indicators",77.2944882127175,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1031","indicators",64.9985034378078,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1032","indicators",240.604265888945,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1033","indicators",195.372765039504,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1034","indicators",1102.6904359058,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1035","indicators",64.9985034378078,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1036","indicators",806.030792675238,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1037","indicators",65.1241152021084,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1038","indicators",65.4966629720736,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1039","indicators",915.903216437927,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1040","indicators",65.0089240893782,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1041","indicators",72.4680516722658,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1042","indicators",72.0715414131158,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1043","indicators",78.2763595926458,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1044","indicators",91.8706491938913,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1045","indicators",72.7182431819457,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1046","indicators",77.0787570684527,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1047","indicators",71.9598682056137,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1048","indicators",993.342291761478,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1049","indicators",71.8783724026632,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1050","indicators",78.9620621834491,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1051","indicators",157.613720213053,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1052","indicators",71.2162714470822,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1053","indicators",70.3934409569789,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1054","indicators",69.8335438395378,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1055","indicators",79.2286954093512,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1056","indicators",162.603970891604,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1057","indicators",244.444046993953,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1058","indicators",70.8113395286737,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1059","indicators",75.0997151897235,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1060","indicators",70.4199139723019,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1061","indicators",178.4522045183,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1062","indicators",70.0245256984021,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1063","indicators",75.0482654539437,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1064","indicators",70.4595625800423,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1065","indicators",137.277987874129,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1066","indicators",73.3371815066674,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1067","indicators",148.383100231224,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1068","indicators",70.7090638249809,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1069","indicators",150.661722410829,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1070","indicators",119.356124454266,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1071","indicators",75.4575969266502,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1072","indicators",127.081118841268,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1073","indicators",120.571883387332,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1074","indicators",317.731631334311,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1075","indicators",77.9774391620581,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1076","indicators",70.1319716326297,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1077","indicators",73.7179646996859,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1078","indicators",71.3304422268473,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1079","indicators",407.06957754235,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1080","indicators",70.9966363803117,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1081","indicators",129.946969689592,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1082","indicators",71.250541436968,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1083","indicators",82.2160980775263,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1084","indicators",79.3054260596474,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1085","indicators",80.3027899508936,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1086","indicators",85.3667253419951,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1087","indicators",85.2775304673878,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1088","indicators",77.5245526965098,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1089","indicators",70.9492681908279,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1090","indicators",71.6330415879562,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1091","indicators",75.2746073748232,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1092","indicators",92.4524343059401,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1093","indicators",94.9973776351324,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1094","indicators",107.478842153607,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1095","indicators",79.3122741724378,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1096","indicators",102.356782834014,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1097","indicators",90.7539642248697,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1098","indicators",71.6458258078557,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1099","indicators",88.2075764785822,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1100","indicators",77.3044137871005,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1101","indicators",70.667730612598,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1102","indicators",78.2194764370354,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1103","indicators",71.8150258909517,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1104","indicators",73.0327011313292,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1105","indicators",73.3097748214778,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1106","indicators",72.0823941865956,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1107","indicators",69.8906843141087,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1108","indicators",814.434139255857,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1109","indicators",75.8063817447195,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1110","indicators",71.1493477307607,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1111","indicators",71.0859125937664,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1112","indicators",1118.571144294,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1113","indicators",72.9353145137247,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1114","indicators",99.7586072570598,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1115","indicators",94.0271018436084,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1116","indicators",83.9191036147623,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1117","indicators",77.5911532091097,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1118","indicators",71.6901579205782,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1119","indicators",70.4481942918724,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1120","indicators",71.2150055622008,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1121","indicators",70.6432947687165,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1122","indicators",81.1829217451022,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1123","indicators",69.9222227066754,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1124","indicators",70.6364168994741,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1125","indicators",89.0830982802909,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1126","indicators",95.8565434596363,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1127","indicators",74.8339897628569,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1128","indicators",75.9222091304217,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1129","indicators",284.440452950388,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1130","indicators",119.707068660665,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1131","indicators",70.8077369405739,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1132","indicators",75.4214051538291,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1133","indicators",71.6194422345386,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1134","indicators",73.4939818059621,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1135","indicators",70.8069516539294,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1136","indicators",172.809961127612,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1137","indicators",70.8997157727764,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1138","indicators",1115.81115023853,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1139","indicators",71.5853050218148,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1140","indicators",73.9296706771135,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1141","indicators",124.90180200815,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1142","indicators",107.067254416827,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1143","indicators",91.7720773534244,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1144","indicators",80.114167157301,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1145","indicators",179.348526610532,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1146","indicators",131.862886546931,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1147","indicators",71.4678135637409,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1148","indicators",71.5041871406722,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1149","indicators",72.3579021163742,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1150","indicators",709.388856511039,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1151","indicators",76.7509143508191,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1152","indicators",70.5476369331773,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1153","indicators",74.1721727093476,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1154","indicators",134.761739111369,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1155","indicators",118.288077569422,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1156","indicators",94.2020679906001,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1157","indicators",81.738412982221,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1158","indicators",71.8315440662532,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1159","indicators",70.895896678536,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1160","indicators",82.0821539835278,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1161","indicators",81.1632395665171,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1162","indicators",153.23141954968,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1163","indicators",71.3846950381646,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1164","indicators",118.812454131514,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1165","indicators",71.7729633926674,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1166","indicators",73.9008255131537,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1167","indicators",88.9224597939094,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1168","indicators",1094.84083117821,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1169","indicators",70.3529306437473,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1170","indicators",71.8038725709364,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1171","indicators",70.1435638339133,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1172","indicators",78.84650406522,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1173","indicators",79.1479630851267,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1174","indicators",76.1252891122568,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1175","indicators",75.2381887827092,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1176","indicators",71.5265972237842,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1177","indicators",78.8891624712588,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1178","indicators",69.0550296191912,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1179","indicators",71.2339124199301,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1180","indicators",527.273029206274,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1181","indicators",452.478474976605,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1182","indicators",102.937219604769,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1183","indicators",73.2000058171634,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1184","indicators",73.7028680484033,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1185","indicators",160.919206504428,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1186","indicators",98.0206050254144,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1187","indicators",96.9229404022585,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1188","indicators",81.6360853716825,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1189","indicators",974.794190918209,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1190","indicators",111.5052819515,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1191","indicators",70.5566322931004,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1192","indicators",72.2771903529171,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1193","indicators",72.5011877323117,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1194","indicators",73.4333653249912,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1195","indicators",77.7929309759859,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1196","indicators",82.2108504424476,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1197","indicators",71.4844539278368,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1198","indicators",70.9327143528022,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1199","indicators",589.843392758478,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1200","indicators",81.5284592668564,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1201","indicators",95.7397798541669,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1202","indicators",70.2603618845881,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1203","indicators",95.0291383108967,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1204","indicators",80.2425300078903,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1205","indicators",165.451418572667,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1206","indicators",73.0070457270464,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1207","indicators",72.1431606269969,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1208","indicators",85.067107705138,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1209","indicators",122.405202953193,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1210","indicators",70.8895299076893,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1211","indicators",69.8671989947412,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1212","indicators",70.264464004713,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1213","indicators",70.7840787946505,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1214","indicators",99.3211064603907,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1215","indicators",143.461173822769,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1216","indicators",164.137024052888,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1217","indicators",71.3601707151782,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1218","indicators",70.4603609609608,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1219","indicators",72.4697747065463,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1220","indicators",80.3648762377741,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1221","indicators",70.4516775486126,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1222","logDensity",228.769400660422,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1223","means",66.6796606710685,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1224","means",66.3979629520367,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1225","pi",89.7935045399831,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1226","pi",89.7935045399831,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1227","sds",106.328148470335,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1228","sds",80.5253556753475,182117.5,4044484,"SimpleMixture","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal",1
+"1229","indicators",65.8931189806237,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1230","indicators",259.905783136233,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1231","indicators",147.376118877897,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1232","indicators",1117.4246142069,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1233","indicators",65.1802300129755,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1234","indicators",65.11888978854,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1235","indicators",66.3734765928123,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1236","indicators",68.6982649142381,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1237","indicators",65.2083665016366,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1238","indicators",74.1302373508527,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1239","indicators",86.1399580584635,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1240","indicators",454.77769760129,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1241","indicators",147.360672131343,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1242","indicators",65.0472692970706,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1243","indicators",89.1525870613533,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1244","indicators",66.9187778271645,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1245","indicators",76.7921779350814,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1246","indicators",65.1711619823962,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1247","indicators",65.1906987655077,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1248","indicators",66.1710366002745,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1249","indicators",65.3407064332009,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1250","indicators",65.1802811750272,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1251","indicators",64.9985034378078,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1252","indicators",64.9985034378078,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1253","indicators",676.475994110428,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1254","indicators",65.4755856753141,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1255","indicators",465.404338027954,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1256","indicators",65.683867089499,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1257","indicators",69.1181625325106,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1258","indicators",80.8374237946336,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1259","indicators",66.7752877833562,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1260","indicators",65.3512116478509,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1261","indicators",66.0682093890712,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1262","indicators",65.1822015170207,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1263","indicators",73.8940427439978,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1264","indicators",65.3131820299403,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1265","indicators",65.6380686026855,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1266","indicators",68.1334904487962,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1267","indicators",86.4963904615199,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1268","indicators",77.284427741489,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1269","indicators",71.5209326555137,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1270","indicators",65.0037135639393,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1271","indicators",65.2515943185108,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1272","indicators",69.5481571350001,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1273","indicators",302.877822675296,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1274","indicators",559.672476138385,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1275","indicators",64.9880843829204,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1276","indicators",65.4299012853296,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1277","indicators",83.454379147787,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1278","indicators",65.0089240893782,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1279","indicators",65.0037135639393,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1280","indicators",64.9880843829204,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1281","indicators",72.7141826056983,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1282","indicators",73.6940513134743,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1283","indicators",417.559421339091,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1284","indicators",74.6683540767958,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1285","indicators",171.702355319075,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1286","indicators",679.222213674669,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1287","indicators",69.0483385145823,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1288","indicators",492.104727838804,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1289","indicators",123.405170316638,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1290","indicators",80.6077861380742,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1291","indicators",66.708650446318,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1292","indicators",65.1013300293853,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1293","indicators",70.2688145921705,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1294","indicators",64.9776669243703,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1295","indicators",518.646354541451,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1296","indicators",65.0752258159789,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1297","indicators",66.555062347311,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1298","indicators",65.057701455674,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1299","indicators",65.1065520740045,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1300","indicators",72.20787691654,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1301","indicators",66.659644041481,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1302","indicators",64.9985034378078,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1303","indicators",132.527825886269,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1304","indicators",68.0769116449092,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1305","indicators",65.1645935234124,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1306","indicators",65.8838629892324,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1307","indicators",78.5461611524172,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1308","indicators",65.4439577129058,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1309","indicators",67.4144023443002,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1310","indicators",65.1104373069255,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1311","indicators",199.399398075081,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1312","indicators",123.637320132944,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1313","indicators",66.0730386156177,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1314","indicators",65.057701455674,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1315","indicators",73.65337299137,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1316","indicators",65.1489094855637,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1317","indicators",65.2613382406972,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1318","indicators",74.4896783759205,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1319","indicators",149.296575283278,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1320","indicators",65.1436822758175,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1321","indicators",65.0089240893782,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1322","indicators",65.0037135639393,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1323","indicators",89.3659093908286,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1324","indicators",64.9776669243703,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1325","indicators",104.065547236748,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1326","indicators",65.031624058307,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1327","indicators",185.22349576883,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1328","indicators",311.452162818077,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1329","indicators",72.5226282704344,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1330","indicators",65.8710111744115,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1331","indicators",105.998966421841,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1332","indicators",64.9985034378078,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1333","indicators",65.0089240893782,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1334","indicators",65.1208829801853,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1335","indicators",75.4609166685132,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1336","indicators",111.318477596438,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1337","indicators",79.8313550696249,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1338","indicators",64.9985034378078,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1339","indicators",270.068797601518,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1340","indicators",218.281435928049,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1341","indicators",899.443193851499,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1342","indicators",64.9985034378078,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1343","indicators",795.332245816215,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1344","indicators",65.0264097783806,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1345","indicators",65.1533684793847,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1346","indicators",1017.74392227827,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1347","indicators",65.0089240893782,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1348","indicators",71.9414214268796,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1349","indicators",74.5631144322235,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1350","indicators",81.3388312632946,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1351","indicators",98.3738645085405,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1352","indicators",72.0065738379739,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1353","indicators",79.1542684446906,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1354","indicators",72.9332802758076,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1355","indicators",1064.38415482238,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1356","indicators",72.7270183768914,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1357","indicators",80.8560956312668,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1358","indicators",168.661400573587,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1359","indicators",74.0213589403856,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1360","indicators",70.9992300268632,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1361","indicators",71.9262511825576,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1362","indicators",84.4111358693819,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1363","indicators",175.029208569174,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1364","indicators",276.678995192131,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1365","indicators",70.9255260230386,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1366","indicators",76.5888656200379,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1367","indicators",71.4908094534487,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1368","indicators",194.282727021826,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1369","indicators",72.1516090737141,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1370","indicators",75.3257650038178,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1371","indicators",71.0915771395549,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1372","indicators",144.382627373928,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1373","indicators",75.7226444338794,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1374","indicators",166.694926536969,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1375","indicators",72.1250620527956,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1376","indicators",163.360476981848,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1377","indicators",123.525939041102,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1378","indicators",77.4780628782194,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1379","indicators",130.894862854784,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1380","indicators",131.077901879254,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1381","indicators",359.887518502879,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1382","indicators",81.7192203750282,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1383","indicators",71.5122513417875,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1384","indicators",74.5307978408234,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1385","indicators",70.538096791259,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1386","indicators",405.724976651904,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1387","indicators",71.8603706645734,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1388","indicators",139.69296416994,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1389","indicators",72.7314981319982,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1390","indicators",86.062996411646,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1391","indicators",79.2884034810396,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1392","indicators",81.7473122823028,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1393","indicators",82.9182765992107,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1394","indicators",90.6913163706976,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1395","indicators",77.3147941029926,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1396","indicators",71.4694746433851,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1397","indicators",71.7527348974745,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1398","indicators",74.8797251950713,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1399","indicators",96.4331423607298,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1400","indicators",101.75611534309,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1401","indicators",113.50847388493,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1402","indicators",79.0691319102567,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1403","indicators",110.196474292019,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1404","indicators",92.329319695428,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1405","indicators",74.238867139492,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1406","indicators",92.9751783512623,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1407","indicators",79.5029908838671,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1408","indicators",71.3606234603314,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1409","indicators",78.7199190912206,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1410","indicators",72.5540355420503,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1411","indicators",74.6108926334406,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1412","indicators",75.2810516483144,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1413","indicators",73.0611355255598,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1414","indicators",71.5446818078602,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1415","indicators",645.476253766018,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1416","indicators",77.6078742994829,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1417","indicators",72.0930949604782,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1418","indicators",72.1512506189019,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1419","indicators",906.058055383186,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1420","indicators",72.8376156889186,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1421","indicators",101.756184709706,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1422","indicators",95.7283184204909,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1423","indicators",84.7048637386363,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1424","indicators",78.7018610672578,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1425","indicators",71.9307689658995,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1426","indicators",72.0148365411767,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1427","indicators",72.3205166110388,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1428","indicators",71.9711157865089,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1429","indicators",84.3703224098695,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1430","indicators",70.6599880738061,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1431","indicators",72.1249929369911,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1432","indicators",91.7530716988689,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1433","indicators",95.604437523769,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1434","indicators",74.0767124617262,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1435","indicators",78.6674023774358,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1436","indicators",301.946344295562,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1437","indicators",125.166079172744,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1438","indicators",72.3969947817272,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1439","indicators",75.9385866866642,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1440","indicators",71.6166609672736,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1441","indicators",74.0365114646189,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1442","indicators",71.6900223858977,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1443","indicators",182.063386115165,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1444","indicators",71.79682405535,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1445","indicators",1057.30751694103,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1446","indicators",71.9733082217753,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1447","indicators",75.1449017714617,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1448","indicators",134.266665603977,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1449","indicators",105.28140526348,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1450","indicators",97.6691830129693,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1451","indicators",81.7551882886321,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1452","indicators",199.797029871387,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1453","indicators",143.330474091346,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1454","indicators",73.9607700620824,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1455","indicators",73.4300826715213,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1456","indicators",72.5607771642479,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1457","indicators",800.92540982801,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1458","indicators",77.4857180238904,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1459","indicators",71.9973091841094,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1460","indicators",75.4164628122192,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1461","indicators",144.25382680584,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1462","indicators",129.905299925855,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1463","indicators",101.406759853989,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1464","indicators",82.6602446851593,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1465","indicators",72.1778333605502,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1466","indicators",71.4271069678524,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1467","indicators",86.1974392180493,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1468","indicators",81.73244570743,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1469","indicators",149.986177224353,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1470","indicators",71.4506109799091,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1471","indicators",124.448276659403,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1472","indicators",71.7767494535374,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1473","indicators",75.057450586221,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1474","indicators",89.8577800077293,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1475","indicators",1018.34750177801,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1476","indicators",72.0886564737103,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1477","indicators",72.8620301463057,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1478","indicators",70.8914855926323,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1479","indicators",80.0303283001834,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1480","indicators",79.7757410187993,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1481","indicators",78.6079727732925,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1482","indicators",76.1799594400178,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1483","indicators",71.5088556471437,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1484","indicators",79.5004398801839,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1485","indicators",71.8100709183826,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1486","indicators",71.5526979970203,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1487","indicators",453.292690014298,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1488","indicators",506.101977895656,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1489","indicators",107.266655805414,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1490","indicators",75.7816619023123,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1491","indicators",76.592097771311,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1492","indicators",162.102012955552,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1493","indicators",100.321367068542,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1494","indicators",99.6093673203934,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1495","indicators",84.0752144292852,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1496","indicators",1091.93060762066,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1497","indicators",116.947159435455,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1498","indicators",71.7332606445133,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1499","indicators",71.6434493764893,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1500","indicators",73.8354073893848,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1501","indicators",75.0414733052901,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1502","indicators",80.1643642910604,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1503","indicators",83.5397472097118,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1504","indicators",74.5054758831203,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1505","indicators",73.777954996547,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1506","indicators",625.492986944846,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1507","indicators",85.3644671580524,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1508","indicators",99.4906352191345,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1509","indicators",70.7921482870657,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1510","indicators",97.862492961279,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1511","indicators",80.0311943612295,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1512","indicators",156.894863586356,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1513","indicators",75.5336040187742,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1514","indicators",72.3254096187536,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1515","indicators",88.5766526280846,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1516","indicators",127.383881400724,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1517","indicators",72.2649244639906,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1518","indicators",72.5056883515173,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1519","indicators",72.9521410929607,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1520","indicators",70.9688145333174,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1521","indicators",101.397219385944,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1522","indicators",160.273467051041,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1523","indicators",170.341467188484,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1524","indicators",72.2821043809326,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1525","indicators",72.616781055574,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1526","indicators",72.4509990738918,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1527","indicators",82.4307133063539,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1528","indicators",71.0389074808289,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1529","logDensity",227.214766359721,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1530","means",66.0138454331952,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1531","means",68.4551290168665,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1532","pi",96.0258254978749,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1533","pi",96.0258254978749,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1534","sds",101.657489621697,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
+"1535","sds",72.4461479832693,354049,354053,"SimpleMixture","PT","Single-chain MCMC",0
