@@ -1,0 +1,4 @@
+scriptName: postprocess-long-runs-4.nf
+start: Fri Aug 30 20:46:07 PDT 2019
+runName: fabulous_goodall
+nextflow.version: 19.01.0

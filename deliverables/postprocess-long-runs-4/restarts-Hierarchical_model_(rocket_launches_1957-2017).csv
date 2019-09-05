@@ -1,0 +1,5 @@
+"","round","count","rate","postAdaptTime_ms","samplingTime_ms","model","engine","method"
+"1",11,41,0.0082,244312,492286,"hier.HierarchicalRockets$Builder","PT","Non-reversible PT"
+"2",11,42,0.0084,247502,500198,"hier.HierarchicalRockets$Builder","PT","Non-reversible PT + SCM init"
+"3",0,31,0.0031,469650,9807458,"hier.HierarchicalRockets$Builder","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola"
+"4",0,0,0,434460,4725795,"hier.HierarchicalRockets$Builder","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal"

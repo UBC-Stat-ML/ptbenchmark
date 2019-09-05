@@ -85,7 +85,7 @@ process plot {
           
   p <- ggplot(ess, aes(x = method, y = value, colour = method)) +
     geom_boxplot() +
-    facet_grid(model ~ ., scales = "free") + 
+    #facet_grid(model ~ ., scales = "free") + 
     guides(colour=FALSE) +
     xlab("Inference Method") + 
     ylab("ESS") +
@@ -97,7 +97,7 @@ process plot {
   
   p <- ggplot(ess, aes(x = method, y = value/samplingTime_ms*1000, colour = method)) +
     geom_boxplot() +
-    facet_grid(model ~ ., scales = "free") + 
+    #facet_grid(model ~ ., scales = "free") + 
     guides(colour=FALSE) +
     xlab("Inference Method") + 
     ylab("ESS/s based on total wall clock time") +
@@ -110,7 +110,7 @@ process plot {
   
   p <- ggplot(ess, aes(x = method, y = value/postAdaptTime_ms*1000, colour = method)) +
     geom_boxplot() +
-    facet_grid(model ~ ., scales = "free") + 
+    #facet_grid(model ~ ., scales = "free") + 
     guides(colour=FALSE) +
     xlab("Inference Method") + 
     ylab("ESS/s based on wall clock time excluding adaptation time") +
@@ -127,7 +127,7 @@ process plot {
   
   p <- ggplot(restarts, aes(x = method, y = rate, colour = method)) +
     geom_boxplot() +
-    facet_grid(model ~ ., scales = "free") + 
+    #facet_grid(model ~ ., scales = "free") + 
     guides(colour=FALSE) +
     xlab("Inference Method") + 
     ylab("Tempered restart rate") +

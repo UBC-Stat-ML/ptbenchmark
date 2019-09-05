@@ -1,0 +1,5 @@
+"","round","count","rate","postAdaptTime_ms","samplingTime_ms","model","engine","method"
+"1",11,271,0.0542,9640,19828,"blang.validation.internals.fixtures.Diffusion$Builder","PT","Non-reversible PT"
+"2",11,273,0.0546,8790,18376,"blang.validation.internals.fixtures.Diffusion$Builder","PT","Non-reversible PT + SCM init"
+"3",0,139,0.0139,10771,91459,"blang.validation.internals.fixtures.Diffusion$Builder","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal"
+"4",0,153,0.0153,11224,54654,"blang.validation.internals.fixtures.Diffusion$Builder","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola"

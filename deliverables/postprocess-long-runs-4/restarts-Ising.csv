@@ -1,0 +1,5 @@
+"","round","count","rate","postAdaptTime_ms","samplingTime_ms","model","engine","method"
+"1",11,480,0.096,9000,19414,"blang.validation.internals.fixtures.Ising$Builder","PT","Non-reversible PT + SCM init"
+"2",11,449,0.0898,8880,18751,"blang.validation.internals.fixtures.Ising$Builder","PT","Non-reversible PT"
+"3",0,283,0.0283,10872,68431,"blang.validation.internals.fixtures.Ising$Builder","baselines.StochasticOptimizedPT","Miasojedow-Moulines-Vihola"
+"4",0,250,0.025,10592,78874,"blang.validation.internals.fixtures.Ising$Builder","baselines.StochasticOptimizedPT","Atchade-Roberts-Rosenthal"
