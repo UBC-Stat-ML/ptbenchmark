@@ -11,3 +11,9 @@
 .nextflow
 links
 work
+deliverables/singles
+mix-processed
+remote-runs
+large-mix-run
+deliverables/postprocess-long-runs
+results
