@@ -106,13 +106,15 @@ process plot {
   
   p <- ggplot(summary, aes(x = k, y = m, colour = swap_frequency, group = swap_frequency)) +
     xlab("Number of independent PT arrays") + 
-    ylab("Round trip per compute cost (parallelized over chains and PT arrays)") + 
+    ylab("Round trips in all arrays per compute cost (algorithms parallelized over chains and PT arrays)") + 
+    ggtitle("Constant number of cores used: ${parallelBudget}", 
+      subtitle = "Number of chains: ${parallelBudget}/number of PT arrays") +
     geom_errorbar(aes(ymin=m-se, ymax=m+se), width=.1) +
     geom_line() +
     geom_point() +
     theme_bw()
     
-  ggsave(plot = p, filename = paste0("independent-PT-arrays-", "${params.model}", ".pdf"))
+  ggsave(plot = p, filename = paste0("independent-PT-arrays-${params.model}.pdf"))
   """
 }
 

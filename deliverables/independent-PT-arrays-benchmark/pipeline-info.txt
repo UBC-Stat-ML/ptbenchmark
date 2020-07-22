@@ -1,4 +1,4 @@
 scriptName: independent-PT-arrays-benchmark.nf
-start: Wed Jul 22 11:23:46 PDT 2020
-runName: fabulous_kirch
+start: Wed Jul 22 11:51:25 PDT 2020
+runName: curious_mendel
 nextflow.version: 19.01.0
