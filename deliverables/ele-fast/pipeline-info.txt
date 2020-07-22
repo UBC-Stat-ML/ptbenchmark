@@ -1,4 +1,4 @@
 scriptName: ele-fast.nf
-start: Sat Apr 13 08:54:19 PDT 2019
-runName: cranky_descartes
-nextflow.version: 19.01.0
+start: 2020-05-31T15:05:42.678-07:00
+runName: stoic_wiles
+nextflow.version: 20.04.1
