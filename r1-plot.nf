@@ -66,7 +66,7 @@ process aggregate {
     file analysisCode
     file 'exec_*' from results.toList()
   output:
-    file 'results/latest/aggregated.csv' into aggregated
+    file '*.csv' into aggregated
   publishDir deliverableDir, mode: 'copy', overwrite: true
   """
   code/bin/aggregate \
@@ -78,6 +78,7 @@ process aggregate {
       f as swap_frequency \
       engine.random as mcRand \
            from arguments.tsv
+  mv results/latest/aggregated.csv independent-PT-arrays-${params.model}.csv
   """
 }
 
@@ -94,7 +95,6 @@ process plot {
   require("dplyr")
   
   data <- read.csv("$aggregated")
-  
   data <- data %>% mutate(roundTripPerParallelizedComputeCost = count * k)
   
   summary <- data %>% 
@@ -115,10 +115,6 @@ process plot {
   ggsave(plot = p, filename = paste0("independent-PT-arrays-", "${params.model}", ".pdf"))
   """
 }
-
-//     scale_y_continuous(sec.axis = ~ ${parallelBudget}/.) + 
-
-
 
 process summarizePipeline {
   cache false
