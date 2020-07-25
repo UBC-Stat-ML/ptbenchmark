@@ -3,12 +3,13 @@
 deliverableDir = 'deliverables/' + workflow.scriptName.replace('.nf','')
 
 params.model = "ising"
+params.baseNPassesPerScan = 0.1
 
 process buildCode {
   input:
     val gitRepoName from 'blangDemos'
     val gitUser from 'UBC-Stat-ML'
-    val codeRevision from '2ff9aaabc251830778fbd41c6a8b5b1a6054318c'
+    val codeRevision from '1211f990611d7e1f163c8d92609cdda03c42af07'
     val snapshotPath from "${System.getProperty('user.home')}/w/blangDemos"
   output:
     file 'code' into code
@@ -40,10 +41,11 @@ process inference {
     --engine.nChains ${(parallelBudget/k).toInteger()} \
     --engine.nScans ${f*baselineNIters} \
     --engine.thinning ${f*baseThinning} \
-    --engine.nPassesPerScan ${0.1/f} \
+    --engine.nPassesPerScan ${params.baseNPassesPerScan/f} \
     --engine.nThreads Single \
     --postProcessor NoPostProcessor \
-    --experimentConfigs.tabularWriter.compressed true
+    --experimentConfigs.tabularWriter.compressed true \
+    --experimentConfigs.resultsHTMLPage false 
   echo "\nk\t${k}" >> results/latest/arguments.tsv
   echo "\nf\t${f}" >> results/latest/arguments.tsv
   """
