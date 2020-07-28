@@ -1,16 +1,19 @@
 require("tidyverse")
 
+this.dir <- dirname(parent.frame(2)$ofile)
+setwd(this.dir)
+
 sum_20 <- read.csv("20-chain/samples/vertices.csv.gz") %>% group_by(sample) %>% summarise(value = 2*sum(value)-25)
 sum_1 <- read.csv("1-chain/samples/vertices.csv.gz") %>% group_by(sample) %>% summarise(value = 2*sum(value)-25)
 
-logd_20 <- read.csv("20-chain/samples/logDensity.csv.gz")
-logd_1 <- read.csv("1-chain/samples/logDensity.csv.gz")
+logd_20 <- read.csv("20-chain/samples/energy.csv.gz") %>% filter(chain == 0)
+logd_1 <- read.csv("1-chain/samples/energy.csv.gz") %>% filter(chain == 0)
 
 combined <- bind_rows(sum_20, sum_1, logd_20, logd_1, .id = "id") %>% 
   filter(sample >= 2500) %>%
   mutate(
-    statistic = ifelse(id == 1 | id == 2, "X_i", "V(X)"),
-    sampler = ifelse(id == 1 | id == 3, "Non reversible PT (20 chains)", "Exploration kernel alone (1 chain)")
+    statistic = ifelse(id == 1 | id == 2, "sum(X)", "V(X)"),
+    sampler = ifelse(id == 1 | id == 3, "Non reversible PT (20 chains)", "Local exploration kernel alone (1 chain)")
   )
 
 p <- ggplot(combined, aes(x = sample, y = value)) +
