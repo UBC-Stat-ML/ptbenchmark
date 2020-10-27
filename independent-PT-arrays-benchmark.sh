@@ -4,4 +4,4 @@
 
 ./nextflow run independent-PT-arrays-benchmark.nf -resume --model Ising-supercritical --baseNPassesPerScan 2 | nf-monitor
 
-./nextflow run independent-PT-arrays-benchmark.nf -resume --model transfection --baseNPassesPerScan 1 | nf-monitor
+./nextflow run independent-PT-arrays-benchmark.nf -resume --model transfection --baseNPassesPerScan 4 | nf-monitor   

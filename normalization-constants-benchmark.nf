@@ -18,8 +18,8 @@ process buildCode {
     template 'buildRepo.sh' 
 }
 
-seeds = (1..10).collect{it}
-budgets = (0..5).collect{Math.pow(2,it)}
+seeds = (1..2).collect{it}
+budgets = (0..2).collect{Math.pow(2,it)}
 
 process inference {
   input:
@@ -27,22 +27,22 @@ process inference {
     file data
     each seed from seeds
     each budget from budgets
-    each method from 'PT-10', 'PT-20', 'PT-40', 'PT-80', 'SCM'
+    each method from 'PT-20', 'PT-40', 'PT-80', 'SCM'
   output:
     file 'results/latest' into results
   """
   code/bin/blangDemos ${params.model} \
     --engine.random $seed \
     ${
-      if (method == "PT-10") ("--engine PT --engine.nPassesPerScan 0.5 --engine.nScans " + 1000*budget + " --engine.nChains " + 10) else ""
+      if (method == "PT-10") (" --engine.logNormalizationEstimator thermodynamicIntegration --engine PT --engine.nPassesPerScan 0.5 --engine.nScans " + 1000*budget + " --engine.nChains " + 10) else ""
     } ${
-      if (method == "PT-20") ("--engine PT --engine.nPassesPerScan 0.5 --engine.nScans " + 1000*budget + " --engine.nChains " + 20) else ""
+      if (method == "PT-20") (" --engine.logNormalizationEstimator thermodynamicIntegration --engine PT --engine.nPassesPerScan 0.5 --engine.nScans " + 1000*budget + " --engine.nChains " + 20) else ""
     } ${
-      if (method == "PT-40") ("--engine PT --engine.nPassesPerScan 0.5 --engine.nScans " + 2000*budget + " --engine.nChains " + 40) else ""
+      if (method == "PT-40") (" --engine.logNormalizationEstimator thermodynamicIntegration --engine PT --engine.nPassesPerScan 0.5 --engine.nScans " + 2000*budget + " --engine.nChains " + 40) else ""
     } ${
-      if (method == "PT-80") ("--engine PT --engine.nPassesPerScan 0.5 --engine.nScans " + 4000*budget + " --engine.nChains " + 80) else ""
+      if (method == "PT-80") (" --engine.logNormalizationEstimator thermodynamicIntegration --engine PT --engine.nPassesPerScan 0.5 --engine.nScans " + 4000*budget + " --engine.nChains " + 80) else ""
     } ${
-      if (method == "SCM") ("--engine SCM --engine.nParticles " + 1000*budget) else ""
+      if (method == "SCM") ("  --engine SCM --engine.nParticles " + 1000*budget) else ""
     } \
     --engine.nThreads Single \
     --postProcessor NoPostProcessor \
@@ -104,14 +104,27 @@ process plot {
   
   data <- data %>% filter(estimator != "SMC-initialization")
   
+  maxBudget <- max(data\$budget)
+  bestEstimates <- data %>% filter(budget == maxBudget) 
+  avgBest <- mean(bestEstimates\$value)
+  
   #meanTimes <- data %>% group_by(budget, engine) %>% 
   
-  p <- ggplot(data, aes(x = samplingTime_ms, y = value, colour = budget, shape = method)) + 
+  p <- ggplot(data, aes(x = samplingTime_ms, y = value, colour = method, shape = factor(budget))) + 
     geom_point() +
     scale_x_log10() + 
     theme_bw()
     
   ggsave("comparison.pdf")
+  
+  p <- ggplot(data, aes(x = samplingTime_ms, y = abs(value - avgBest), colour = method, shape = factor(budget))) + 
+    geom_point() +
+    geom_smooth() + 
+    scale_x_log10() + 
+    theme_bw()
+    
+  ggsave("comparison-meanAbsError.pdf")
+  
   """
 }
 

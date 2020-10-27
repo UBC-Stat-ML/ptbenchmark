@@ -8,7 +8,7 @@ process buildCode {
   input:
     val gitRepoName from 'blangDemos'
     val gitUser from 'UBC-Stat-ML'
-    val codeRevision from 'b4a0593e172afc1c454b70eb20144eac0f07460f'
+    val codeRevision from 'c4a0b4490fc78a504e2026e0924c94c296307dec'
     val snapshotPath from "${System.getProperty('user.home')}/w/blangDemos"
   output:
     file 'code' into code

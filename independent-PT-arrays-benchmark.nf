@@ -9,7 +9,7 @@ process buildCode {
   input:
     val gitRepoName from 'blangDemos'
     val gitUser from 'UBC-Stat-ML'
-    val codeRevision from '1211f990611d7e1f163c8d92609cdda03c42af07'
+    val codeRevision from 'c80d739ca20796b5e844680acd21d353c4d3886d'
     val snapshotPath from "${System.getProperty('user.home')}/w/blangDemos"
   output:
     file 'code' into code
@@ -20,11 +20,11 @@ process buildCode {
 
 seeds = (1..10).collect{it}
 
-baselineNIters = 100000
-baseThinning = 100
+baselineNIters = 50000
+baseThinning = 50
 ks = (1..5)
-parallelBudget = 20
-fs = (0..2).collect{Math.pow(2,it)}
+parallelBudget = 40
+fs = (-1..1).collect{Math.pow(2,it)}
 
 process inference {
   input:
@@ -55,7 +55,7 @@ process analysisCode {
   input:
     val gitRepoName from 'nedry'
     val gitUser from 'UBC-Stat-ML'
-    val codeRevision from 'e7893230d0bb6b6dedad9499532f3716286e62ba'
+    val codeRevision from '93930421f33027466653adc297532faa3e58412c'
     val snapshotPath from "${System.getProperty('user.home')}/w/nedry"
   output:
     file 'code' into analysisCode
@@ -64,6 +64,7 @@ process analysisCode {
 }
 
 process aggregate {
+  echo true
   input:
     file analysisCode
     file 'exec_*' from results.toList()

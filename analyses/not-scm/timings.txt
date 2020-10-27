@@ -1,0 +1,6 @@
+MMV	2.019min
+NRPT	1.508min
+AIS-5	1.887min 
+SCM-5	1.778min	
+SCM-20	2.302min
+SCM-100	5.064min

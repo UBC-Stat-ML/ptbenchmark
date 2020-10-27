@@ -1,0 +1,4 @@
+SMC	8.269s
+PT	7.250s
+1-chain	1.439s
+AIS	5.723s
